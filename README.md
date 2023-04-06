@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Enhancing Communication & Collaboration with Quarto and Jupyter Notebooks
 ================
 
 ### posit::conf 2023
